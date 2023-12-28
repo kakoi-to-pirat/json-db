@@ -1,4 +1,5 @@
-[
+{
+  "posts": [
   {
     "id": 1,
     "postId": 1,
@@ -23,4 +24,8 @@
     "userId": 2,
     "comment": "Vivamus commodo metus eget velit convallis, sit amet tincidunt tellus elementum. Fusce maximus venenatis ipsum, vel venenatis leo faucibus ac. Maecenas scelerisque nisi et sapien elementum, sed faucibus odio tempor. Proin pulvinar blandit eros a luctus. Praesent laoreet elit in elit rutrum, eget commodo ante gravida. Fusce eget ligula digniss"
   }
-]
+],
+  "profile": {
+    "name": "pirate"
+  }
+}
